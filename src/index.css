@@ -2,9 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.css-1qdzy9k-MuiBarElement-root {
+.css-yrgrvu {
   fill: #157aff3e !important;
-}
-.css-1qdzy9k-MuiBarElement-root:hover {
-  fill: #157aff !important;
 }
